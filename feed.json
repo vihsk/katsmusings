@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "katsmusings",
+    "description": "",
+    "home_page_url": "https://vihsk.github.io/katsmusings",
+    "feed_url": "https://vihsk.github.io/katsmusings/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "katrin"
+    },
+    "items": [
+    ]
+}
