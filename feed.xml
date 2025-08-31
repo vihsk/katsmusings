@@ -3,12 +3,52 @@
     <title>katsmusings</title>
     <link href="https://text.katrinvollhardt.de/feed.xml" rel="self" />
     <link href="https://text.katrinvollhardt.de" />
-    <updated>2025-08-31T17:07:58+02:00</updated>
+    <updated>2025-08-31T17:50:05+02:00</updated>
     <author>
         <name>katrin</name>
     </author>
     <id>https://text.katrinvollhardt.de</id>
 
+    <entry>
+        <title>setting up this blog was easy, actually</title>
+        <author>
+            <name>katrin</name>
+        </author>
+        <link href="https://text.katrinvollhardt.de/setting-up-this-blog-was-easy-actually.html"/>
+        <id>https://text.katrinvollhardt.de/setting-up-this-blog-was-easy-actually.html</id>
+
+        <updated>2025-08-31T17:50:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                    this is not a glorious post. i do have a computer science bachelors. however, i did suffer massively from the paradox of choice. this sunday i thought its time for a blog. i gave twitter too many of my words already. i twote like ~200.000&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>this is not a glorious post. 
+i do have a computer science bachelors. 
+however, i did suffer massively from the paradox of choice.</p><p>this sunday i thought its time for a blog. 
+i gave twitter too many of my words already. i twote like ~200.000 posts over a 8-year span. 
+and tumblr was too messy for me to blog on (also, i am scared of the community). </p><h3 id="the-process-the-tools">the process, the tools</h3>
+<ol>
+<li>google “how to microblog”. be overwhelmed. too many words. </li>
+<li>type “host own blog” into youtube. hope someone says something along the lines of “github pages”. </li>
+<li>watch a video of a guy massively overengineering his notes into a website on github pages (half victory)</li>
+<li>find the <a href="https://www.youtube.com/watch?v=hk8g454nHu0">holy grail video</a> of a guy (after many lectures and hours of programming uni, i understood how a website works?)</li>
+<li>download publii</li>
+<li>set up pages</li>
+<li>set up cloudflare protection for my domain</li>
+<li>set up subdomain through CF</li>
+<li>… it’s … a blog?</li>
+</ol>
+<h3 id="what-i-learned">what i learned</h3>
+<p>a website does not need much. it is a domain, a hosting provider and a CMS.
+a domain can be free (github pages default or neocities), 
+hosting too (see above),
+and the CMS can <em>also</em> be free (thanks publii). </p><p>and emotionally? i learned it does not need to be hard. computer scientists tend to flex with the state-of-the-art tools and security features they used to overcomplicate a simple task – i am not those kinds of people, i am initimidated my big words. </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>validate me, pls</title>
         <author>
