@@ -3,12 +3,46 @@
     <title>katsmusings</title>
     <link href="https://text.katrinvollhardt.de/feed.xml" rel="self" />
     <link href="https://text.katrinvollhardt.de" />
-    <updated>2025-08-31T17:50:05+02:00</updated>
+    <updated>2025-08-31T21:52:32+02:00</updated>
     <author>
         <name>katrin</name>
     </author>
     <id>https://text.katrinvollhardt.de</id>
 
+    <entry>
+        <title>tl;dr: flexibility</title>
+        <author>
+            <name>katrin</name>
+        </author>
+        <link href="https://text.katrinvollhardt.de/tldr-flexibility.html"/>
+        <id>https://text.katrinvollhardt.de/tldr-flexibility.html</id>
+
+        <updated>2025-08-31T21:37:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                    or how to get flexible forever imagine this situation: you’re climbing. you know you can reach the top if you just step up the next boulder. you stretch your foot up, manage to place it half-securely on the boulder, and… you feel that your hips&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <blockquote>
+<p>or <a href="https://youtu.be/NwX2dh0dwNA?si=sIeUSNEN1cV70LxM">how to get flexible forever</a></p></blockquote>
+<h3 id="why-am-i-so-unflexible">why am i so unflexible?</h3>
+<p>imagine this situation: 
+you’re climbing. you know you can reach the top if you <em>just step up</em> the next boulder. you stretch your foot up, manage to place it half-securely on the boulder, and… you feel that your hips are not strong enough to pull yourself up. you are stuck in a very uncomfortable splits-like pose. </p><p>unflexibility is an automatic mechanism to protect your joints from snapping. 
+if the body does not have the strength to support you in a certain pose, it contracts your muscles automatically to preserve your joints.</p><h3 id="well-how-can-i-get-flexible-then">well, how can i get flexible then?</h3>
+<p>to get sustainably flexible, you need to build strength at the end of your range of motion. 
+in a good strength training, given you utilize the entirety of your ROM, this happens automatically. 
+you can also train for specific skills. </p><h3 id="example-pike">example: pike</h3>
+<ol>
+<li>find your ROM in pike position (hands grabbing calves and hinging at the hip down). you’ll find it when your muscles (here: hamstrings, calves) start to contract.</li>
+<li>lean into the concraction: tense the muscles as hard as you can, as far as you can comfortably go, as long as you can, and pull yourself as hard as you can. do 10 reps x 3 sets.</li>
+<li>this can be applied to any static stretch. bang those out 2-3 times a week.</li>
+</ol>
+<p>profit!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>setting up this blog was easy, actually</title>
         <author>

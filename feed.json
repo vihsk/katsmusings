@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://text.katrinvollhardt.de/tldr-flexibility.html",
+            "url": "https://text.katrinvollhardt.de/tldr-flexibility.html",
+            "title": "tl;dr: flexibility",
+            "summary": "or how to get flexible forever imagine this situation: you’re climbing. you know you can reach the top if you just step up the next boulder. you stretch your foot up, manage to place it half-securely on the boulder, and… you feel that your hips&hellip;",
+            "content_html": "<blockquote>\n<p>or <a href=\"https://youtu.be/NwX2dh0dwNA?si=sIeUSNEN1cV70LxM\">how to get flexible forever</a></p></blockquote>\n<h3 id=\"why-am-i-so-unflexible\">why am i so unflexible?</h3>\n<p>imagine this situation: \nyou’re climbing. you know you can reach the top if you <em>just step up</em> the next boulder. you stretch your foot up, manage to place it half-securely on the boulder, and… you feel that your hips are not strong enough to pull yourself up. you are stuck in a very uncomfortable splits-like pose. </p><p>unflexibility is an automatic mechanism to protect your joints from snapping. \nif the body does not have the strength to support you in a certain pose, it contracts your muscles automatically to preserve your joints.</p><h3 id=\"well-how-can-i-get-flexible-then\">well, how can i get flexible then?</h3>\n<p>to get sustainably flexible, you need to build strength at the end of your range of motion. \nin a good strength training, given you utilize the entirety of your ROM, this happens automatically. \nyou can also train for specific skills. </p><h3 id=\"example-pike\">example: pike</h3>\n<ol>\n<li>find your ROM in pike position (hands grabbing calves and hinging at the hip down). you’ll find it when your muscles (here: hamstrings, calves) start to contract.</li>\n<li>lean into the concraction: tense the muscles as hard as you can, as far as you can comfortably go, as long as you can, and pull yourself as hard as you can. do 10 reps x 3 sets.</li>\n<li>this can be applied to any static stretch. bang those out 2-3 times a week.</li>\n</ol>\n<p>profit!</p>",
+            "author": {
+                "name": "katrin"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-31T21:37:43+02:00",
+            "date_modified": "2025-08-31T21:52:32+02:00"
+        },
+        {
             "id": "https://text.katrinvollhardt.de/setting-up-this-blog-was-easy-actually.html",
             "url": "https://text.katrinvollhardt.de/setting-up-this-blog-was-easy-actually.html",
             "title": "setting up this blog was easy, actually",
