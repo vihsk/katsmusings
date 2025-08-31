@@ -6,4 +6,3 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://vihsk.github.io/katsmusings/sitemap.xml
